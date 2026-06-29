@@ -55,6 +55,4 @@ GitHub: [@Prasadchandrut](https://github.com/Prasadchandrut)
 ## 📄 License
 
 This project is open source and available for educational purposes.
-4. Place the project folder in your server's root directory (e.g., `htdocs` for XAMPP)
-5. Start Apache and MySQL from XAMPP Control Panel
-6. Open your browser and go to:
+
